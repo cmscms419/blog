@@ -1,0 +1,15 @@
+# 빌드 결과물
+public/
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 옵시디언 설정
+.obsidian/
+
+# 환경 파일
+.env
+
+# 노드 모듈
+node_modules/
