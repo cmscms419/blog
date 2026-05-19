@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/cmscms419/quartz/content/**)",
+      "Read(//c/Users/alstj/Documents/Obsidian Vault/**)",
+      "Bash(gh repo *)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
